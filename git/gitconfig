@@ -1,6 +1,6 @@
 [user]
-	name = Georgii Staroselskii
-	email = georgii.staroselskii@emlid.com
+	name = Alina Gotovtceva
+	email = alina.gotovtceva@emlid.com
 [alias]
     lg = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
     unstage = reset HEAD
@@ -16,6 +16,7 @@
 	conflictstyle = diff3
 [core]
 	excludesfile = ~/.gitignore
+	editor = vim
 [color]
 	ui = auto
 [gpg]
