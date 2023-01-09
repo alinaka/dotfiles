@@ -1,6 +1,6 @@
 [user]
-	name = Alina Gotovtceva
-	email = alina.gotovtceva@emlid.com
+	name = Alina Gotovtseva
+	email = alinakago@gmail.com
 [alias]
     lg = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
     unstage = reset HEAD
